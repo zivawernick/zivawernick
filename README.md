@@ -9,7 +9,7 @@
 I'm a Social Impact Driven **Software Engineer** with experience in **Web, Database and fullstack Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **React**
-- 🔭 Working on: **Deciding whats next**
+- 🔭 Working on: **Planning and Innovating**
 - 🌍 Languages: **Java, Javascript, C, Ptython, HTML, English & Hebrew**
 - 📫 How to reach me: **ziva.wernick@gmail.com**
 - ⚡ Fun facts:
