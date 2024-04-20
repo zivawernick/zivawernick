@@ -14,7 +14,6 @@ I'm a Social Impact Driven **Software Engineer** with experience in **Web, Datab
 - 📫 How to reach me: **ziva.wernick@gmail.com**
 - ⚡ Fun facts:
      * **I am social impact driven** 
-     * **I am Israeli**
 
 ## My Skills 🧠
 
