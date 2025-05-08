@@ -12,7 +12,8 @@ I'm a Social Impact Driven **Software Engineer** with experience in **Web, Datab
 - 🌍 Languages: **Java, Javascript, C, Python, HTML, English & Hebrew**
 - 📫 How to reach me: **ziva.wernick@gmail.com**
 - ⚡ Fun facts:
-     * **I am social impact driven** 
+     * **I am social impact driven**
+     * I am a Community Manager with **Women in Tech Israel** 
 
 ## My Skills 🧠
 
