@@ -20,6 +20,9 @@ I'm a Social Impact Driven **Software Engineer** with experience in **Web, Datab
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+## Portfolio - Projects without Public Repo's
+![HTML](http://keywisecare.com/)
+![HTML](http://jaffainstitute.org/)
 
 ## Connect with Me
 <p align="left">
