@@ -7,7 +7,7 @@
 
 I'm a Social Impact Driven **Software Engineer** with experience in **Web, Database and Fullstack Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **TypeScript**
+- 🌱 Currently learning: **TypeScript**, **Astro**
 - 🔭 Working on: **Planning and Innovating**, **CALMe**
 - 💻 Programming Languages: **Java, JavaScript, HTML/CSS, C, Python, React**
 - 🌍 Languages: **English & Hebrew**
