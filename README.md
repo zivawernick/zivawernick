@@ -1,4 +1,4 @@
-# Hi there, I'm Ziva! 👋 🎗 <img src="https://github.com/zivawernick/zivawernick/assets/22984777/64ed880f-3be7-431e-bc89-5cc6a222f1cd" width="50" height="50">
+# Hi there, I'm Ziva! 👋 <img src="https://github.com/zivawernick/zivawernick/assets/22984777/64ed880f-3be7-431e-bc89-5cc6a222f1cd" width="50" height="50">
 
 
 
