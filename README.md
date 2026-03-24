@@ -1,8 +1,6 @@
 # Hi there, I'm Ziva! 👋 <img src="https://github.com/zivawernick/zivawernick/assets/22984777/64ed880f-3be7-431e-bc89-5cc6a222f1cd" width="50" height="50">
 
 
-
-
 ## About Me 
 
 I'm a Social Impact Driven **Software Engineer** with experience in **Web, Database and Fullstack Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -18,8 +16,12 @@ I'm a Social Impact Driven **Software Engineer** with experience in **Web, Datab
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Astro](https://skillicons.dev/icons?i=astro)
+![C](https://skillicons.dev/icons?i=c)
+![React.js](https://skillicons.dev/icons?i=react)
+
 
 ## Portfolio - Projects without Public Repositories
 http://keywisecare.com/
