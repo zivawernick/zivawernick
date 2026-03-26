@@ -8,8 +8,8 @@ I'm a Social Impact Driven **Software Engineer** with experience in **Web, Datab
 - 🌱 Currently learning: **TypeScript**, 
 - 🔭 Working on: **Planning and Innovating**, **CALMe**
 - 💻 Programming Languages: **Java, JavaScript, HTML/CSS, C, Python**
-- Frameworks: **Astro**,
-- Libraries: **React**,
+- Frameworks: **Astro**
+- Libraries: **React**
 - 🌍 Languages: **English & Hebrew**
 - 📫 How to reach me: **ziva.wernick@gmail.com**
 - ⚡ Fun facts:
