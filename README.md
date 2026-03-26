@@ -5,9 +5,11 @@
 
 I'm a Social Impact Driven **Software Engineer** with experience in **Web, Database and Fullstack Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **TypeScript**, **Astro**
+- 🌱 Currently learning: **TypeScript**, 
 - 🔭 Working on: **Planning and Innovating**, **CALMe**
-- 💻 Programming Languages: **Java, JavaScript, HTML/CSS, C, Python, React**
+- 💻 Programming Languages: **Java, JavaScript, HTML/CSS, C, Python**
+- Frameworks: **Astro**,
+- Libraries: **React**,
 - 🌍 Languages: **English & Hebrew**
 - 📫 How to reach me: **ziva.wernick@gmail.com**
 - ⚡ Fun facts:
